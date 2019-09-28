@@ -19,7 +19,7 @@
 ## Core Technologies Used
  - [HTML] (#html)
  - [CSS] (#css)
- 
+
 
 ## Installation
 
