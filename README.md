@@ -1,11 +1,10 @@
-# README Boilerplate
+# README for Basic Portfolio
 
-A template of README best practices to make your README simple to understand and easy to use. 
 
 ## Table of Contents
 
 - [About Me](#aboutme)
-- [Portfolio](#usportfolio)
+- [Portfolio](#portfolio)
 - [Contact](#contact)
 
 ## Tools Used
@@ -14,6 +13,13 @@ A template of README best practices to make your README simple to understand and
 - [Chrome Browser](#chrome)
 - [GitLab](#gitlab)
 - [GitHub](#github)
+- [W3Schools](#w3schools)
+- [SlackForum] (#slack)
+
+## Core Technologies Used
+ - [HTML] (#html)
+ - [CSS] (#css)
+ 
 
 ## Installation
 
