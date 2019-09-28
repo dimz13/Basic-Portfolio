@@ -14,7 +14,7 @@
 - [GitLab](#gitlab)
 - [GitHub](#github)
 - [W3Schools](#w3schools)
-- [SlackForum] (#slack)
+- [SlackForum] (#slackforum)
 
 ## Core Technologies Used
  - [HTML] (#html)
