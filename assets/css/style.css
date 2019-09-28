@@ -16,13 +16,13 @@ header{
     margin-top: -1.2em;
     margin-left: -0.25em;
     margin-right: -0.25em;
-    border-block-color: #cccccc;
+    border-color: #cccccc;
 }
 
 .header{
     max-width: 960px;
     margin: auto;
-    border-bottom-color: black;
+    border-bottom-color: #dddddd;
 }
 
 .header > h1{
